@@ -14,7 +14,7 @@ product:
 uniqueid: KB000184
 ---
 
-TESTING TESTING TESTING AND MORE TESTING!!!
+TESTING TESTING AND MORE TESTING!!!
 
 When deploying with a stack file with Docker Cloud, the following error message might occur:
 
