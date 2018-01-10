@@ -4,14 +4,16 @@ version: 3
 title: "ASCII codec can't encode character"
 internal: no
 author: "kizbitz"
-dateModified: "2018-01-09T22:28:55-06:00"
-dateModified_unix: 1515558535
+dateModified: "2018-01-09T22:41:48-06:00"
+dateModified_unix: 1515559308
 platform:
 testedon:
 tags:
 product:
   - Hub
+uniqueid: KB000129
 ---
+We should see a uniqueid created
 
 TESTING TESTING AND MORE TESTING!!!
 
