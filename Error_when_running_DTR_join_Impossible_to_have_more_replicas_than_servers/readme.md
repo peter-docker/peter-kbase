@@ -1,6 +1,6 @@
 ---
 # Refer to https://github.com/docker/kbase/blob/master/standards/readme.md for detailed description of metadata
-title: When adding a new replica with the 'dtr join' command, the following error occurs: "It's impossible to have more replicas of the data than there are servers."
+title: "When adding a new replica with the 'dtr join' command, the following error occurs: \"It's impossible to have more replicas of the data than there are servers.\""
 internal: no             # set to yes to keep it internal-only
 comment: "internal comments that will only show up in the GH source file"
 type: kbase               # set to customerservice if applicable

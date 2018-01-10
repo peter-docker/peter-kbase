@@ -1,6 +1,6 @@
 ---
 # Refer to https://github.com/docker/kbase/blob/master/standards/readme.md for detailed description of metadata
-title: Error: dirperm1 breaks the protection by the permission bits on the lower branch
+title: "Error: dirperm1 breaks the protection by the permission bits on the lower branch"
 internal: no            
 comment: ""
 type: kbase    

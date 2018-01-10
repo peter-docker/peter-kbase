@@ -11,7 +11,6 @@ internal: no
 author: "jacquesg"
 platform:
   - linux
-testedon:
 tags:
   - upgrading
   - error
