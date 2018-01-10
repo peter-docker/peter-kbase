@@ -1,0 +1,1 @@
+This directory contains images for the internal-only `kbase/readme.md`. Only images for the kbase instructions should be in this directory. Do **not** upload images for kbase articles in this directory.
