@@ -14,7 +14,7 @@ testedon:
 tags:
 product:
   - EE
-uniqueid:
+uniqueid: KB000130
 ---
 
 TESTING TESTING TESTING AND MORE TESTING!!!
