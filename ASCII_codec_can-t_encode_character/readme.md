@@ -11,6 +11,7 @@ testedon:
 tags:
 product:
   - Hub
+uniqueid: KB000129
 ---
 We should see a uniqueid created
 
